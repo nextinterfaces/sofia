@@ -43,9 +43,9 @@ http://localhost:8001/deutsch/willkommen.js
 and you can list the sources as:
 
 ```
-<script src='http://localhost:8001/hello.js'></src>
-<script src='http://localhost:8001/bonjour.js'></src>
-<script src='http://localhost:8001/deutsch/willkommen.js'></src>
+<script src='http://localhost:8001/hello.js'></script>
+<script src='http://localhost:8001/bonjour.js'></script>
+<script src='http://localhost:8001/deutsch/willkommen.js'></script>
 ```
 
 
