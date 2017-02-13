@@ -23,6 +23,20 @@ Start
 node index.js
 ```
 
-This will start a small static server delivering all JS files residing under './src' directory.
+This will start a small static server delivering all JS files residing under `./src` directory. In our case the sample files are:
 
-During `production` the JS files and templates should be compiled to a minified JS version.
+```
+./src/hello.js
+./src/bonjour.js
+./src/deutsch/willkommen.js
+
+```
+
+The latter will accessible at:
+
+```
+http://localhost:8001/hello.js
+http://localhost:8001/bonjour.js
+http://localhost:8001/deutsch/willkommen.js
+```
+
