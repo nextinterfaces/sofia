@@ -20,6 +20,7 @@ http://localhost:8001/last-file.js
 Start
 ---
 ```
+npm i
 node index.js
 ```
 
