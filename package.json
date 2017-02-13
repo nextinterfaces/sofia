@@ -1,0 +1,30 @@
+{
+  "name": "sofia",
+  "version": "1.0.0",
+  "description": "Sofia is small web server dynamically including JS libraries into your web application simplifying development Edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nextinterfaces/sofia.git"
+  },
+  "keywords": [
+    "JS",
+    "utility",
+    "live",
+    "deploy"
+  ],
+  "author": "Atanas Roussev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nextinterfaces/sofia/issues"
+  },
+  "homepage": "https://github.com/nextinterfaces/sofia#readme",
+  "devDependencies": {
+    "finalhandler": "^0.5.1",
+    "serve-static": "^1.11.2"
+  }
+}
