@@ -1,5 +1,5 @@
 # Sofia
-Sofia is small web server including JS libraries and sources directly into your web application simplifying development
+Sofia is small web server including JS libraries and sources directly into your web application simplifying development.
 
 ## Motivation:
 
